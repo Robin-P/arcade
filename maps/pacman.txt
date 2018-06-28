@@ -1,0 +1,27 @@
+########################################
+###ooooooooooooooo####ooooooooooooooo###
+###o######o######o####o######o######o###
+###b######o######o####o######o######b###
+###o######o######o####o######o######o###
+###oooooooooooooooooooooooooooooooooo###
+###oooooooooooooooooooooooooooooooooo###
+###o######o###o##########o###o#####oo###
+###oooooooo###oooo####oooo###oooooooo###
+##########o######o####o######o##########
+###oooooooo###oooooooooooo###oooooooo###
+###o######ooooo###    ###ooooo######o###
+###oooooooooooo#        #oooooooooooo###
+###o######o###o##########o###o######o###
+###oooooooo###oooooooooooo###oooooooo###
+##########o###o##########o###o##########
+###ooooooooooooooo####ooooooooooooooo###
+###b######o######o####o######o######b###
+###ooooo##oooooooooooooooooooo##ooooo###
+###ooooo##oooooooooooooooooooo##ooooo###
+#######o##o###o##########o###o##o#######
+###oooooooo###oooo####oooo###oooooooo###
+###o#############o####o#############o###
+###o#############o####o#############o###
+###o#############o####o#############o###
+###oooooooooooooooooooooooooooooooooo###
+########################################
